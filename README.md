@@ -1,14 +1,18 @@
 ## :file_folder: PortFolio with ReactJS
 
-![ReactFolio Image](https://github.com/trpiano/myportfolio/blob/dev/src/assets/img/projects/reactfolio.webp)
+![ReactFolio Image](https://github.com/trpiano/reactfolio/blob/dev/src/assets/img/projects/reactfolio.webp)
 
-In the project directory, you can run:
+:arrow_forward: Let's start the project installation process:
 
-### `npm start`
+:one: To start it is necessary to make a clone of the repository in your Github folder or download the code in your :computer:
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+:two: Then type the following command below, it will install the node_modules folder, necessary for the project to work
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+:exclamation: Remembering that this step is best done with the command prompt running as an administrator
+## npm install
+
+:three: After installation is complete, just start the command prompt inside the project folder and type the following command
+## npm start
+
+
 
